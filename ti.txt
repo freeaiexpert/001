@@ -1,0 +1,13 @@
+Okay, here are the main titles for the practical syllabus:
+
+Practical Syllabus: Data Analysis and Visualization
+1. Data Wrangling I: Fundamentals of Data Preparation
+2. Data Wrangling II: Advanced Data Cleaning and Transformation
+3. Descriptive Statistics: Measures of Central Tendency and Variability
+4. Data Analytics I: Predictive Modeling with Linear Regression
+5. Data Analytics II: Classification using Logistic Regression
+6. Data Analytics III: Probabilistic Classification with Naïve Bayes
+7. Text Analytics: Processing and Representing Textual Data
+8. Data Visualization I: Exploring Data Patterns with Histograms
+9. Data Visualization II: Comparative Analysis with Box Plots
+10. Data Visualization III: Comprehensive Feature Analysis
